@@ -1,5 +1,5 @@
 # Calculator
-![alt text](https://github.com/KartikMamodia/Library/blob/master/Img/AdminSuccess.JPG)
+![alt text](https://github.com/KartikMamodia/Calculator/blob/master/img/CalculatorImg.JPG)
 ---
 # Requirements
 * JDK 7 or above.  
