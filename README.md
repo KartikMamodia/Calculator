@@ -13,4 +13,5 @@
 * Compile `javac Calci.java`
 * Run `java Calci`
 
-`This project is connected with db as avail `**CHECK**` and `**HISTORY**` options`
+### NOTE
+This project is connected with db as avail `CHECK` and ```HISTORY``` options
