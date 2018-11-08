@@ -14,4 +14,4 @@
 * Run `java Calci`
 
 ### NOTE
-This project is connected with db as avail `CHECK` and ```HISTORY``` options
+This project is connected with db as to avail `CHECK` and ```HISTORY``` options
